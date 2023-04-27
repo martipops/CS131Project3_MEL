@@ -1,4 +1,3 @@
-package linkedlist;
 
 /**
  * This class models a linked list in which each node has a pointer

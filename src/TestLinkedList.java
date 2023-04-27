@@ -1,7 +1,3 @@
-package main;
-
-import linkedlist.Node;
-import linkedlist.LinkedList;
 
 public class TestLinkedList {
 
